@@ -1,5 +1,5 @@
 # Mariusz Czerkawski Tribute Page
-A tribute page to the greatest Polish hockey player of all time.
+A tribute page dedicated to the greatest Polish hockey player of all time, Mariusz Czerkawski. 
 
 <br>
 
